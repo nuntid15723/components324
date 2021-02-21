@@ -1,0 +1,1 @@
+"# components324"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/nuntid15723/components324.gitgit push -u origin main
